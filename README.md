@@ -20,6 +20,10 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/prriyaaa?theme=dark&font=Tomorrow&ext=heatmap)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyadharshini-k09)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fromkpriyadharshini@gmail.com)
+
+
 
 
 
