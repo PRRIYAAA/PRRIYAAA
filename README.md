@@ -4,7 +4,7 @@
 
 ## 👋 Hello there!
 
-I'm **Priyadharshini K**, a passionate ** Tech Enthusiast **
+I'm **Priyadharshini K**, a passionate **Tech Enthusiast**
 
 
 🌱 Currently learning & teaching **Data Structures and Algorithms**, while integrating **AI into my workflow** 🤖  
