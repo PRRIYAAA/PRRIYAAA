@@ -24,7 +24,7 @@ I specialize in AI-assisted wellness apps, real-time systems, and smart Android 
 <!-- Badges generated using Shields.io or simple markdown icons -->
 
 **Languages**  
-![Python]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.icons8.com/?size=100&id=13441&format=png&color=000000))
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.icons8.com/?size=100&id=13441&format=png&color=000000))
 
 
 
