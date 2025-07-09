@@ -6,6 +6,10 @@
 
 I'm **Priyadharshini K**, a passionate **Tech Enthusiast**
 
+## CHECK THIS
+ https://prriyaaa.github.io/Portfolio/
+ 
+
 
 🌱 Currently learning & teaching **Data Structures and Algorithms**, while integrating **AI into my workflow** 🤖  
 💡 Engineering at heart, with a love for building things that matter.  
